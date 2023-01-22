@@ -16,3 +16,5 @@ https://www.skroutz.gr/s/33421667/Keyestudio-4DOF-Mechanical-Robot-Arm-Car-Kit-K
 Αισθητήρας ορατού φωτός 11 καναλιών=€25
 LINK: https://www.hellasdigital.gr/electronics/sensors/gravity-as7341-11-channel-visible-light-sensor-sen0364/
 ΣΥΝΟΛΟ=159€
+ΠΗΓΕΣ:
+https://wiki.keyestudio.com/KS0520_KEYESTUDIO_4DOF_Mechanical_Robot_Arm_Car_Learning_Kit
