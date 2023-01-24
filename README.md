@@ -18,3 +18,4 @@ LINK: https://www.hellasdigital.gr/electronics/sensors/gravity-as7341-11-channel
 ΣΥΝΟΛΟ=159€
 ΠΗΓΕΣ:
 https://wiki.keyestudio.com/KS0520_KEYESTUDIO_4DOF_Mechanical_Robot_Arm_Car_Learning_Kit
+και https://www.data-media.gr/files/KS0520.pdf
