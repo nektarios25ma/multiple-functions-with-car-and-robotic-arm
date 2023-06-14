@@ -24,6 +24,7 @@ and we are searching for 3d printer…
 MIT APP LINK FOR DOWNLOAD  AND INSTALL TO OUR SMARTPHONE:
 https://github.com/nektarios25ma/multiple-functions-with-car-and-robotic-arm/blob/main/BLECAR_ARM1%20(1).aia
 
+
 ΥΛΙΚΑ:
 
 1)KIT =141,40€
