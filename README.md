@@ -17,6 +17,13 @@
 
 Το βίντεο που δείχνει την κατασκευή μας έχει ως όνομα το VIDEO_DEMOSTRATION_ARM_ELLAK.mp4 και βρίσκεται σε αυτό το github.
 
+Σχεδιάσαμε επίσης τη δική μας εκδοχή ενός ρομποτικού βραχίονα σε τρεις διαστάσεις (3D STL TINKERCAD), τα αρχεία του οποίου δημοσιεύουμε στο GITUB: 
+https://github.com/nektarios25ma/multiple-functions-with-car-and-robotic-arm/tree/main/3Darm
+and we are searching for 3d printer…
+
+MIT APP LINK FOR DOWNLOAD  AND INSTALL TO OUR SMARTPHONE:
+https://github.com/nektarios25ma/multiple-functions-with-car-and-robotic-arm/blob/main/BLECAR_ARM1%20(1).aia
+
 ΥΛΙΚΑ:
 
 1)KIT =141,40€
