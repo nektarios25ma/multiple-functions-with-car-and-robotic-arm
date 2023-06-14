@@ -32,6 +32,8 @@ https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/mcu-and-compo
 ΣΥΝΟΛΟ=169 €
 
 ΠΗΓΕΣ:
+WIKI: https://en.wikipedia.org/wiki/Degrees_of_freedom_(mechanics)
+
 https://reachrobotics.com/blog/degrees-of-freedom-vs-functions-of-a-robotic-arm/
 
 https://wiki.keyestudio.com/KS0520_KEYESTUDIO_4DOF_Mechanical_Robot_Arm_Car_Learning_Kit
