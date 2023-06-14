@@ -15,7 +15,7 @@
 
 Ανιχνεύει επίσης το σκοτάδι μέσω ενός αισθητήρα φωτογραφίας και ανάβει αυτόματα τα φώτα.
 
-Το βίντεο που δείχνει την κατασκευή μας έχει ως όνομα το VIDEO_DEMOSTRATION_ARM_ELLAK.mp4 και βρίσκεται σε αυτό το github.
+Το βίντεο που δείχνει την κατασκευή μας έχει ως όνομα το VIDEO_DEMOSTRATION_ARM_ELLAK.mp4 και βρίσκεται σε αυτό το github ή εδώ https://drive.google.com/file/d/1K4BlvJT_M1YCqCxiA833Xw4zHBCchlr_/view?usp=sharing .
 
 Σχεδιάσαμε επίσης τη δική μας εκδοχή ενός ρομποτικού βραχίονα σε τρεις διαστάσεις (3D STL TINKERCAD), τα αρχεία του οποίου δημοσιεύουμε στο GITΗUB: 
 https://github.com/nektarios25ma/multiple-functions-with-car-and-robotic-arm/tree/main/3Darm
