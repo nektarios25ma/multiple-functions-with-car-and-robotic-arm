@@ -25,5 +25,7 @@ LINK: https://www.cosmoprice.gr/product/72872/epanafortizomeni-mpataria-biomixan
 ΣΥΝΟΛΟ=169€
 
 ΠΗΓΕΣ:
+https://reachrobotics.com/blog/degrees-of-freedom-vs-functions-of-a-robotic-arm/
+
 https://wiki.keyestudio.com/KS0520_KEYESTUDIO_4DOF_Mechanical_Robot_Arm_Car_Learning_Kit
 και https://www.data-media.gr/files/KS0520.pdf
