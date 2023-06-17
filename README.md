@@ -29,6 +29,13 @@ and we are searching for 3d printer…
 MIT APP LINK FOR DOWNLOAD  AND INSTALL TO OUR SMARTPHONE:
 https://github.com/nektarios25ma/multiple-functions-with-car-and-robotic-arm/blob/main/BLECAR_ARM1%20(1).aia
 
+O τρόπος συναρμολόγησης δίνεται εδώ στο pdf : 4DF Mechanical Robot Arm Car.pdf με link: 
+https://github.com/nektarios25ma/multiple-functions-with-car-and-robotic-arm/blob/main/4DF%20Mechanical%20Robot%20Arm%20Car.pdf
+
+Επίσης η δική τους σειρά μαθημάτων εδώ στο αρχείο : KS0520 4DOF Mechanical Robot Arm Car.pdf με link:
+https://github.com/nektarios25ma/multiple-functions-with-car-and-robotic-arm/blob/main/KS0520%204DOF%20Mechanical%20Robot%20Arm%20Car.pdf
+
+
 
 ΥΛΙΚΑ:
 
