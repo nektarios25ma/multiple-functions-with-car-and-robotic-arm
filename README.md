@@ -22,6 +22,10 @@ https://wiki.keyestudio.com/KS0520_KEYESTUDIO_4DOF_Mechanical_Robot_Arm_Car_Lear
 https://github.com/nektarios25ma/multiple-functions-with-car-and-robotic-arm/tree/main/3Darm
 and we are searching for 3d printer…
 
+Το learning kit προτείνει μια σειρά από κώδικες που αποτελούν και σειρά μαθημάτων ΟΜΩΣ τα παιδιά εφτιαξαν την δική τους εκδοχή 
+με όνομα arm1blu.ino στο GITHUB , link: https://github.com/nektarios25ma/multiple-functions-with-car-and-robotic-arm/blob/main/arm1blu.ino
+
+Η παρακάτω εφαρμογή σχεδιάστηκε-προγραμματίστηκε απο τα παιδιά.
 MIT APP LINK FOR DOWNLOAD  AND INSTALL TO OUR SMARTPHONE:
 https://github.com/nektarios25ma/multiple-functions-with-car-and-robotic-arm/blob/main/BLECAR_ARM1%20(1).aia
 
