@@ -35,6 +35,7 @@ https://github.com/nektarios25ma/multiple-functions-with-car-and-robotic-arm/blo
 Επίσης η δική τους σειρά μαθημάτων εδώ στο αρχείο : KS0520 4DOF Mechanical Robot Arm Car.pdf με link:
 https://github.com/nektarios25ma/multiple-functions-with-car-and-robotic-arm/blob/main/KS0520%204DOF%20Mechanical%20Robot%20Arm%20Car.pdf
 
+Πάνω στο arduino uno κουμπώνει η shield του keyestudio διευκολύνοντας την συνδεσμολογία  όμως προσθέσαμε τον αισθητήρα φωτός και τα led φωτισμού στο GITHB : με όνομα ldr sensor with two lights.png και link  εδώ : https://github.com/nektarios25ma/multiple-functions-with-car-and-robotic-arm/blob/main/ldr%20sensor%20with%20two%20lights.png
 
 
 ΥΛΙΚΑ:
