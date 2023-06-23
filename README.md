@@ -1,4 +1,6 @@
 # multiple-functions-with-car-and-robotic-arm
+link ellak: https://openedtech.ellak.gr/robotics2023/onoma-omadaserevnitestitlos-ergourompotikos-vrachionas-pollaplon-litourgion/
+
 Στα μαθήματα της ρομποτικής-STEM που κάνω στο σχολείο μας, τα παιδιά μου πρότειναν την δημιουργία ενός ρομποτικού βραχίονα σε ρομπότ-αυτοκινητάκι ο οποίος θα ελέγχεται από το κινητό μας τηλέφωνο ή απο κάποιο ασύρματο τηλεχειριστήριο και θα εκτελεί διάφορες εργασίες.
 Διάλεξα λοιπόν το παρακάτω kit το οποίο αποτελεί και εργαλείο εκμάθησης STEM, όπου ξεκινώντας από απλές δημιουργίες καταλήγει σε πολύπλοκες και δημιουργικές κατασκευές.
 https://wiki.keyestudio.com/KS0520_KEYESTUDIO_4DOF_Mechanical_Robot_Arm_Car_Learning_Kit
